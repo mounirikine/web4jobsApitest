@@ -1,11 +1,11 @@
 {
-  "name": "web4jobstest",
+  "name": "your-project-name",
   "version": "1.0.0",
+  "description": "Your project description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mounir ikine",
-  "license": "ISC",
-  "description": ""
+  "author": "Mounir Ikine",
+  "license": "ISC"
 }
